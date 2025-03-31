@@ -21,7 +21,7 @@
 
 
 module.exports = {
-    token: '',
-    guildId: '',
+    token: 'MTM1NjI1ODI1MDI0MDE2Nzk2Nw.GaGAiR.4cRmxyMy7WhfMwo8moCSJmdze1QSXHLqVS1JM0',
+    guildId: 'mongodb+srv://vinix2989:fk5VXIr9SHDF4Mn0@cluster0.yliqp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     mongodbURI: ''
 };
